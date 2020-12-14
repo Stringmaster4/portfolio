@@ -34,6 +34,18 @@ a.logo2 {
   color: #EDEADF;
 }
 
+h3.skill {
+  font-size: 46px !important;
+  font-weight: 200 !important;
+  color: #656B5E !important;
+}
+
+h2.skill {
+  font-size: 64px !important;
+  font-weight: 200 !important;
+  color: #656B5E !important;
+}
+
 .navBox {
   float: right !important;
   width: 300px;
