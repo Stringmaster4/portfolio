@@ -46,6 +46,30 @@ h2.skill {
   color: #656B5E !important;
 }
 
+h1 {
+  font-size: 20px !important;
+  font-weight: 300 !important;
+  color: #656B5E !important;
+}
+
+h2 {
+  font-size: 16px !important;
+  font-weight: 300 !important;
+  color: #656B5E !important;
+}
+
+h3 {
+  font-size: 36px !important;
+  font-weight: 300 !important;
+  color: #656B5E !important;
+}
+
+p1 {
+  font-size: 16px;
+  font-weight: 200;
+  color: #656B5E;
+}
+
 .navBox {
   float: right !important;
   width: 300px;
